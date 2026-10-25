@@ -123,3 +123,10 @@ Ingénieur en informatique avec trois décennies de pratique polyvalente, de l'a
 ## 🌍 Langues
 
 - Anglais — TOEIC 590
+
+
+---
+
+**Mots-clés :** ingénieur d'étude et développement, IA générative, intelligence artificielle, prompt engineering, analyste programmeur COBOL DB2, mainframe, WinDev, Java, Python, SQL, banque, assurance, monétique, design industriel, freelance, Montbéliard, Belfort, Mulhouse, Strasbourg, Franche-Comté
+
+#IngénieurÉtudesEtDéveloppement #IAGénérative #IntelligenceArtificielle #PromptEngineering #ChatGPT #Claude #Mistral #Développeur #AnalysteProgrammeur #COBOL #DB2 #Mainframe #PACBASE #WinDev #Java #Python #SQL #Monétique #Banque #Assurance #DesignIndustriel #UML #Freelance #Montbéliard #Belfort #Mulhouse #Strasbourg #FrancheComté
