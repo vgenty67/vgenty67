@@ -1,9 +1,9 @@
 # Vincent Genty
-### Ingénieur d'étude et développement et en IA générative
+### Ingénieur d'étude en développement et en IA générative
 
 <img src="https://images.fillout.com/orgid-866734/flowpublicid-8mx6swrw8s/widgetid-default/9Ejp8hQHE7ThyvWEhrP5Tx/pasted-image-1791877623847-cud6edj5.jpg" alt="Vincent Genty" width="180" align="right" />
 
-Ingénieur en informatique avec trois décennies de pratique polyvalente, de l'analyse fonctionnelle au développement et au pilotage d'équipes, motivé par l'adoption de solutions innovantes et efficaces. En formation à l'IA générative, je mets à profit cette expertise pour concevoir et intégrer des systèmes d'IA robustes et pragmatiques, en assurant la qualité, l'opérationnel et l'adhésion des utilisateurs.
+Ingénieur en informatique avec trois décennies de pratique polyvalente, de l'analyse fonctionnelle au développement, motivé par l'adoption de solutions innovantes et efficaces. En formation à l'IA générative, je mets à profit cette expertise pour concevoir et intégrer des systèmes d'IA robustes et pragmatiques, en assurant la qualité, l'opérationnel et l'adhésion des utilisateurs.
 
 📍 Étupes (25460) · 📧 [vgenty67@gmail.com](mailto:vgenty67@gmail.com) · 📞 06 19 16 31 31 · 30 ans d'expérience
 
@@ -124,9 +124,8 @@ Ingénieur en informatique avec trois décennies de pratique polyvalente, de l'a
 
 - Anglais — TOEIC 590
 
-
 ---
 
-**Mots-clés :** ingénieur d'étude et développement, IA générative, intelligence artificielle, prompt engineering, analyste programmeur COBOL DB2, mainframe, WinDev, Java, Python, SQL, banque, assurance, monétique, design industriel, freelance, Montbéliard, Belfort, Mulhouse, Strasbourg, Franche-Comté
+**Mots-clés :** ingénieur d'étude en développement, IA générative, intelligence artificielle, prompt engineering, analyste programmeur COBOL DB2, mainframe, WinDev, Java, Python, SQL, banque, assurance, monétique, design industriel, freelance, Montbéliard, Belfort, Mulhouse, Strasbourg, Franche-Comté
 
 #IngénieurÉtudesEtDéveloppement #IAGénérative #IntelligenceArtificielle #PromptEngineering #ChatGPT #Claude #Mistral #Développeur #AnalysteProgrammeur #COBOL #DB2 #Mainframe #PACBASE #WinDev #Java #Python #SQL #Monétique #Banque #Assurance #DesignIndustriel #UML #Freelance #Montbéliard #Belfort #Mulhouse #Strasbourg #FrancheComté
